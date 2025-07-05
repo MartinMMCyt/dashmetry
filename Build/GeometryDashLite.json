@@ -1,0 +1,17 @@
+
+{
+"companyName": "1games",
+"productName": "Dashmetry",
+"productVersion": "25070503",
+"dataUrl": "https://play.1games.io/game/geometry-lite/25070503/Build/geometry-lite-v25070503.data.unityweb",
+"wasmCodeUrl": "https://play.1games.io/game/geometry-lite/25070503/Build/geometry-lite-v25070503.wasm.unityweb",
+"wasmFrameworkUrl": "https://play.1games.io/game/geometry-lite/25070503/Build/geometry-lite-v25070503.framework.js.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.24f1"
+}
